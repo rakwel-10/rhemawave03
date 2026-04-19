@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+.idea/
+*.log
+*.mp4
+.claude/settings.local.json
+
+# unused assets from prior iterations
+monitor1.webm
+rhemawave device.webm
+assets/frames/
